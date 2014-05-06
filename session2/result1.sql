@@ -1,0 +1,10 @@
+INSERT INTO Problem1 VALUES('a', false, 'capaciteit levert geen unieke voertuigen');
+INSERT INTO Problem1 VALUES('b', true, 'voertuig x heeft één capaciteit');
+INSERT INTO Problem1 VALUES('c', true, '');
+INSERT INTO Problem1 VALUES('d', true, '');
+INSERT INTO Problem1 VALUES('e', true, '');
+INSERT INTO Problem1 VALUES('f', false, 'als bezorger kun je meerdere voertuigen rijden');
+INSERT INTO Problem1 VALUES('g', true, '');
+INSERT INTO Problem1 VALUES('h', false, '');
+INSERT INTO Problem1 VALUES('i', true, '');
+INSERT INTO Problem1 VALUES('j', false, '');
