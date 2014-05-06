@@ -1,4 +1,4 @@
-SELECT DISTINCT p.pid FROM Person p, Acts a , 
+SELECT DISTINCT p.pid FROM Person p,
 WHERE EXISTS( 
 SELECT * FROM Acts a, Movie m 
 WHERE a.pid = p.pid 
