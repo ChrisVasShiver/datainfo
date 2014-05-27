@@ -1,0 +1,1 @@
+UPDATE `Boek` SET `isbn`='123' where `isbn`='21324124';

@@ -1,0 +1,2 @@
+INSERT INTO `Exemplaar`(`isbn`, `volgnummer`, `gewichtingram`, `kast`) VALUES('21324124', '12323', '400', '1b');
+INSERT INTO `Exemlpaar`(`isbn`, `volgnummer`, `gewichtingram`, `kast`) VALUES('21321', '1232367', '250', '1b');

@@ -1,0 +1,1 @@
+DELETE FROM `Boek` where `isbn`='21324124';
